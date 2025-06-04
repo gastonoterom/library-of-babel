@@ -30,7 +30,7 @@ What's the best way to fight this? By finding, reading, consuming, and creating 
 
 This repository, article, or whatever you want to call it, will serve as a guide, a life jacket, or a lifeline to help you and I navigate the seemingly never-ending _modern-day Library of Babel_. Here I'll make a list of **personally vouched, curated, and good-quality** resources.
 
-My only request to you is to collaborate. Step your foot on the break and take a moment to think. Stand against the system, and stop creating and consuming AI-generated slop. And remember, this is not an anti-AI crusade, it's just a reminder that we should use these tools as a crutch, without letting them consume half our brains. So please, if this resonates with you, consider creating a **Pull Request** or **Forking** this to curate your own list of resources.
+My only request to you is to collaborate. Step your foot on the break and take a moment to think. Stand against the system, and stop creating and consuming AI-generated slop. And remember, this is not an anti-AI crusade nor a [Luddite](https://en.wikipedia.org/wiki/Luddite) manifesto, it's just a reminder that we should use these tools as a crutch, without letting them consume half our brains. So please, if this resonates with you, consider creating a **Pull Request** or **Forking** this to curate your own list of resources.
 
 My idea is not to put just _any good_ resource, but instead the best of the best, _la crème de la crème_.
 
