@@ -44,6 +44,8 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 
 - 📘 [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design), by Eric Evans
 
+- 📘 [Architecture Patterns with Python](https://www.goodreads.com/book/show/50083115-architecture-patterns-with-python), by Harry Percival and Bob Gregory
+
 - 📘 [Learning Domain-Driven Design: Aligning Software Architecture and Business Strategy](https://www.goodreads.com/book/show/57573212-learning-domain-driven-design), by Vladik Khononov
 
 - 📘 [Grokking Simplicity: Taming complex software with functional thinking](https://www.goodreads.com/book/show/52257623-grokking-simplicity), by Eric Normand
