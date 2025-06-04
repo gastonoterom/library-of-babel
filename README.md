@@ -70,7 +70,6 @@ But as always, whenever you need reliable information about a specific technolog
 - 📺 [Internet of Bugs](https://www.youtube.com/@InternetOfBugs)
 - 📺 [Luke Smith](https://www.youtube.com/@LukeSmithxyz)
 - 📺 [DistroTube](https://www.youtube.com/@DistroTube)
-- 📺 [Luke Smith](https://www.youtube.com/@LukeSmithxyz)
 
 For Spanish-speaking audiences:
 
