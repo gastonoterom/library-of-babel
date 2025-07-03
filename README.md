@@ -52,6 +52,8 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 
 - 📘 [Microservice Patterns](https://www.goodreads.com/book/show/34372564-microservice-patterns), by Chris Richardson
 
+- 📘 [Monolith to Microservices](https://www.goodreads.com/book/show/44144499-monolith-to-microservices), by Sam Newman
+
 ### Interesting Articles
 
 - 📝 [It's the Latency, Stupid](http://www.stuartcheshire.org/rants/latency.html)
