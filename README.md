@@ -53,6 +53,8 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 - 📘 [Microservice Patterns](https://www.goodreads.com/book/show/34372564-microservice-patterns), by Chris Richardson
 
 - 📘 [Monolith to Microservices](https://www.goodreads.com/book/show/44144499-monolith-to-microservices), by Sam Newman
+  
+- 📘 [AI Engineering](https://www.goodreads.com/book/show/216848047-ai-engineering), by Chip Huyen
 
 ### Interesting Articles
 
