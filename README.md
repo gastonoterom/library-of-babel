@@ -63,6 +63,7 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 - 📝 [The Heisenbug lurking in your async code](https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/)
 - 📝 [Python Hashes and Equality](https://hynek.me/articles/hashes-and-equality/)
 - 📝 [Friends Don't Let Friends Use Loops](https://bonesmoses.org/2014/friends-dont-let-friends-use-loops/)
+- 📝 [GPT-4 can solve math problems — but not in all languages](https://www.artfish.ai/p/gpt4-project-euler-many-languages)
 
 But as always, whenever you need reliable information about a specific technology, you should almost always consult first within the official documentation.
 
