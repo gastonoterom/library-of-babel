@@ -26,7 +26,7 @@ You need to become immune to the [_doomeristic_](https://en.wikipedia.org/wiki/D
 
 Besides, if we software engineers become easily replaceable, what kind of guarantees do other white-collar professions have? We'll have greater things to worry about. Keep in mind that by _white-collar_, I'm even talking about the C-suite.
 
-What's the best way to fight this? By finding, reading, consuming, and creating **good quality, human-made, hand-crafted** resources. Yes, nowadays reading a good book is an act of rebellion, an act of counter-culture.
+What's the best way to fight this? By finding, reading, consuming, and creating **good quality, human-made, hand-crafted** resources. This itself is an act of counter-culture, an act of rebellion.
 
 This repository, article, or whatever you want to call it, will serve as a guide, a life jacket, or a lifeline to help you and I navigate the seemingly never-ending _modern-day Library of Babel_. Here I'll make a list of **personally vouched, curated, and good-quality** resources.
 
