@@ -56,6 +56,8 @@ My idea is not to put just _any good_ resource, but instead the best of the best
   
 - 📘 [AI Engineering](https://www.goodreads.com/book/show/216848047-ai-engineering), by Chip Huyen
 
+- 📘 [The Rust Programming Language](https://doc.rust-lang.org/book/), by Steve Klabnik, Carol Nichols, and Chris Krycho (with community contributions)
+
 ### Interesting Articles
 
 - 📝 [It's the Latency, Stupid](http://www.stuartcheshire.org/rants/latency.html)
