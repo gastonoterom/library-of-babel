@@ -58,6 +58,8 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 
 - 📘 [The Rust Programming Language](https://doc.rust-lang.org/book/), by Steve Klabnik, Carol Nichols, and Chris Krycho (with community contributions)
 
+- 📘 [Distributed Systems for Fun and Profit](https://book.mixu.net/distsys/ebook.html), by Mikito Takada
+
 ### Interesting Articles
 
 - 📝 [It's the Latency, Stupid](http://www.stuartcheshire.org/rants/latency.html)
@@ -66,7 +68,6 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 - 📝 [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/)
 - 📝 [The Heisenbug lurking in your async code](https://textual.textualize.io/blog/2023/02/11/the-heisenbug-lurking-in-your-async-code/)
 - 📝 [Python Hashes and Equality](https://hynek.me/articles/hashes-and-equality/)
-- 📝 [Friends Don't Let Friends Use Loops](https://bonesmoses.org/2014/friends-dont-let-friends-use-loops/)
 - 📝 [GPT-4 can solve math problems — but not in all languages](https://www.artfish.ai/p/gpt4-project-euler-many-languages)
 - 📝 [Hire people who give a shit.](https://alexw.substack.com/p/hire)
 
