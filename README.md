@@ -70,6 +70,7 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 - 📝 [Python Hashes and Equality](https://hynek.me/articles/hashes-and-equality/)
 - 📝 [GPT-4 can solve math problems — but not in all languages](https://www.artfish.ai/p/gpt4-project-euler-many-languages)
 - 📝 [Hire people who give a shit.](https://alexw.substack.com/p/hire)
+- 📝 [This is not a monad tutorial](https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html)
 
 But as always, whenever you need reliable information about a specific technology, you should almost always consult first within the official documentation.
 
