@@ -72,7 +72,8 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 - 📝 [Hire people who give a shit.](https://alexw.substack.com/p/hire)
 - 📝 [This is not a monad tutorial](https://johnazariah.github.io/2022/12/06/this-is-not-a-monad-tutorial.html)
 - 📝 [Making sense of TypeScript using set theory](https://thoughtspile.github.io/2023/01/23/typescript-sets)
-
+- 📝 [No, Promise is not a monad](https://buzzdecafe.github.io/2018/04/10/no-promises-are-not-monads)
+  
 But as always, whenever you need reliable information about a specific technology, you should almost always consult first within the official documentation.
 
 ### Great All-Around Youtube Channels
