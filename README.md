@@ -62,6 +62,7 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 
 ### Interesting Articles
 
+- 📝 [The Lambda Calculus (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/lambda-calculus/)
 - 📝 [It's the Latency, Stupid](http://www.stuartcheshire.org/rants/latency.html)
 - 📝 [Ruling the Event-Driven Architecture with RabbitMQ](https://medium.com/@jordan-temim/ruling-the-event-driven-architecture-with-rabbitmq-534798bdf17e)
 - 📝 [Idempotent Command Handling](https://event-driven.io/en/idempotent_command_handling/)
@@ -75,7 +76,7 @@ My idea is not to put just _any good_ resource, but instead the best of the best
 - 📝 [No, Promise is not a monad](https://buzzdecafe.github.io/2018/04/10/no-promises-are-not-monads)
 - 📝 [On the foolishness of "natural language programming"](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 - 📝 [Child's Play](https://harpers.org/archive/2026/03/childs-play-sam-kriss-ai-startup-roy-lee/)
-  
+
 But as always, whenever you need reliable information about a specific technology, you should almost always consult first within the official documentation.
 
 ### Great All-Around Youtube Channels
